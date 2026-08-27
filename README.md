@@ -72,16 +72,16 @@ The original dataset is not included in this repository due to its large file si
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](dashboard-previews/overview.png)
+![Executive Overview](./dashboard-previews/overview.png)
 
 ### Sales & Customer Analysis
-![Sales & Customer Analysis](dashboard-previews/sales-customer-analysis.png)
+![Sales & Customer Analysis](./dashboard-previews/sales-customer-analysis.png)
 
 ### Operations & Logistics Analysis
-![Operations & Logistics Analysis](dashboard-previews/operations-logistics.png)
+![Operations & Logistics Analysis](./dashboard-previews/operations-logistics.png)
 
 ### Business Insights & Recommendations
-![Business Insights](dashboard-previews/business-insights.png)
+![Business Insights & Recommendations](./dashboard-previews/business-insights.png)
 
 ## Key Skills Demonstrated
 
