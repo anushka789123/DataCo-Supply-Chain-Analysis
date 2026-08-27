@@ -65,23 +65,10 @@ Summarizes key findings from the analysis and translates them into actionable bu
 
 ## Dataset
 
+
 This project uses the **DataCo Smart Supply Chain for Big Data** dataset for analyzing sales, customers, orders, markets, products, and delivery performance.
 
 The original dataset is not included in this repository due to its large file size.
-
-## Dashboard Preview
-
-### Executive Overview
-![Executive Overview](./dashboard-previews/overview.png)
-
-### Sales & Customer Analysis
-![Sales & Customer Analysis](./dashboard-previews/sales-customer-analysis.png)
-
-### Operations & Logistics Analysis
-![Operations & Logistics Analysis](./dashboard-previews/operations-logistics.png)
-
-### Business Insights & Recommendations
-![Business Insights & Recommendations](./dashboard-previews/business-insights.png)
 
 ## Key Skills Demonstrated
 
